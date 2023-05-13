@@ -28,8 +28,8 @@ Hi, Iam Nyoman Sunima, Product designer, Fullstack Developer and Indie Maker loc
 
 I make any free products including template, design, apps, ui kits, and also app for free. Your help will make this product always available to access by other people.
 
-- Support on <a hre="https://ko-fi.com/nyomansunima"><strong>ko-fi</strong></a>
-- Become sponsors on <a hre="https://github.com/sponsors/nyomansunima"><strong>Github</strong></a>
+- Support on <a href="https://ko-fi.com/nyomansunima"><strong>ko-fi</strong></a>
+- Become sponsors on <a href="https://github.com/sponsors/nyomansunima"><strong>Github</strong></a>
 
 <br/>
 <br/>
