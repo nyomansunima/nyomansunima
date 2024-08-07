@@ -13,13 +13,11 @@ Hi, Iam Nyoman Sunima, Product designer, Fullstack Developer and Indie Maker loc
 
 
 ### 🎉 My recent status
-
-- 🧑🏿‍💻 I’m currently working on [Password Manager](https://github.com/nyomansunima) & [Doen](https://github.com/explore-box/doen)
-- 🎉 All of my works are show case in [https://nyomansunima.com](https://nyomansunima.com)
-- 🔋 I regularly write articles on [https://nyomansunima.hashnode.dev](https://nyomansunima.hashnode.dev)
+- 🎉 All of my works are show case in [https://nyomansunima.one/works](https://nyomansunima.one/works)
+- 🔋 I regularly write articles on [https://nyomansunima.one/writing](https://nyomansunima.one/writing)
 - 🥰 Ask me about **Development, Process, Framework, Stacks, and Design**
-- 🍀 Know more about me on [https://nyomansunima.com/about](https://nyomansunima.com/about)
-- 🚀 See all my bio links on [http://bio.nyomansunima.com](http://bio.nyomansunima.com)
+- 🍀 Know more about me on [https://nyomansunima.one/about](https://nyomansunima.one/about)
+- 🚀 See all my bio links on [https://nyomansunima.one/bio](https://nyomansunima.one/bio)
 
 <br/>
 <br/>
