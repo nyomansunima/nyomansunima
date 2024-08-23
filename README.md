@@ -15,4 +15,4 @@ Hello, I am Nyoman sunima from Bali, Indonesia.
 <br/>
 <br/>
 
-[<kbd> <br> Explore <br> </kbd>](https://nyomansunima.one)
+[<kbd> <br> Explore <br> </kbd>](https://nyomansunima.one) [<kbd> <br> Check bio <br> </kbd>](https://nyomansunima.one/bio) [<kbd> <br> Free resources <br> </kbd>](https://nyomansunima.one/resources)
