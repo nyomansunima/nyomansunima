@@ -1,6 +1,6 @@
 **Nyoman Sunima**
 
-_"Product designer, developer, writer, and indie hacker loves to craft digital solutions"_
+_"Product designer, Software Engineer & Creator loves to craft digital solutions for global audiences"_
 
 <br/>
 
