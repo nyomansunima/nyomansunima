@@ -16,5 +16,4 @@ Hello, I am Nyoman sunima from Bali, Indonesia. Open to sharing, and collaborati
 <br/>
 
 [<kbd> <br> Explore <br> </kbd>](https://nyomansunima.one)
-[<kbd> <br> Check Bio <br> </kbd>](https://nyomansunima.one/bio)
 [<kbd> <br> Free resources <br> </kbd>](https://nyomansunima.one/resources)
