@@ -1,6 +1,6 @@
 **Nyoman Sunima**
 
-_"Product designer, Software Engineer & Creator loves to craft digital solutions for global audiences"_
+_"Product designer, software engineer & creator"_
 
 <br/>
 
