@@ -12,8 +12,22 @@ Hello, I am Nyoman sunima from Bali, Indonesia. Open to sharing, and collaborati
 - Currently focus on build projects
 
 
-<br/>
+Good things:
+
+- [Official sites](https://nyomansunima.one)
+- [Resources](https://nyomansunima.one/resources)
+- [Projects](https://nyomansunima.one/crafts)
+
 <br/>
 
-[<kbd> <br> Explore <br> </kbd>](https://nyomansunima.one)
-[<kbd> <br> Free resources <br> </kbd>](https://nyomansunima.one/resources)
+Teams:
+- [Moono](https://moono.space)
+- [Weecraft](https://weecraft.club)
+- [Weebo](https://tryweebo.one)
+- [Sonibble](https://usesonibble.site) 
+
+<br/>
+
+Recently:
+- [Creevoo](https://creevoo.store)
+- [Roast Site](https://roastto.site)
