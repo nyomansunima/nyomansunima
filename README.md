@@ -14,6 +14,6 @@ Hello, I am Nyoman sunima from Bali, Indonesia. Open to sharing, and collaborati
 
 Good things:
 
-- [Official sites](https://nyomansunima.one)
-- [Resources](https://nyomansunima.one/resources)
-- [Projects](https://nyomansunima.one/crafts)
+- [Official sites](https://nyomansunima.com)
+- [Resources](https://nyomansunima.com/resources)
+- [Projects](https://nyomansunima.com/crafts)
