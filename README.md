@@ -2,6 +2,9 @@
 
 _"Product designer, software engineer & creator"_
 
+Building saas products, websites, tools, digital products, contents, businesses, goodies. See more on [official site](https://nyomansunima.com), [journeys](https://nyomansunima.com/journeys), [stories](https://nyomansunima.com/stories), [projects](https://nyomansunima.com/crafts).
+
+
 - Working as freelancer
 - Finding & joining good teams
 - Building saas at [Moono](https://moono.space)
@@ -12,8 +15,3 @@ _"Product designer, software engineer & creator"_
 - Contribute to open source projects
 - Still actively maintain the projects
 - Crafting something new on the side
-
-
-<br/>
-
-Building saas products, websites, tools, digital products, contents, businesses, goodies. See more on [official site](https://nyomansunima.com), [journeys](https://nyomansunima.com/journeys), [stories](https://nyomansunima.com/stories), [projects](https://nyomansunima.com/crafts).
