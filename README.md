@@ -15,15 +15,7 @@ _"Product designer, software engineer & creator"_
 
 <br/>
 
-Building:
-
-- Saas products
-- Websites
-- Tools
-- Digital products
-- Contents
-- Businesses
-- Goodies
+Building: Saas products, websites, tools, digital products, contents, businesses, goodies.
 
 <br/>
 
