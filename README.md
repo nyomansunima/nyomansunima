@@ -13,15 +13,7 @@ _"Product designer, software engineer & creator"_
 - Still actively maintain the projects
 - Crafting something new on the side
 
-<br/>
-
-Building: Saas products, websites, tools, digital products, contents, businesses, goodies.
 
 <br/>
 
-Good things:
-
-- [Official site](https://nyomansunima.com)
-- [Journeys](https://nyomansunima.com/journeys)
-- [Stories](https://nyomansunima.com/stories)
-- [Projects](https://nyomansunima.com/crafts) 
+Building saas products, websites, tools, digital products, contents, businesses, goodies. See more on [official site](https://nyomansunima.com), [journeys](https://nyomansunima.com/journeys), [stories](https://nyomansunima.com/stories), [projects](https://nyomansunima.com/crafts).
