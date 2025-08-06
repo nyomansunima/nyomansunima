@@ -2,18 +2,34 @@
 
 _"Product designer, software engineer & creator"_
 
+- Working as freelancer
+- Finding & joining good teams
+- Building saas at [Moono](https://moono.space)
+- Create website templates at [Creevoo](https://creevoo.store)
+- Founded [Weebo](https://tryweebo.one) and [Sonibble](https://usesonibble.site)
+- Craft tools at [Weecraft](https://weecraft.club)
+- Create content at [The Gridline](https://thegridline.site) & [The Scolon](https://thescolon.site)
+- Contribute to open source projects
+- Still actively maintain the projects
+- Crafting something new on the side
+
 <br/>
 
-Hello, I am Nyoman sunima from Bali, Indonesia. Open to sharing, and collaboration, I love to write and create something that help other people.
+Building:
 
-- Loves to design, code, and create apps
-- Write & create content around design, code, indie hacking, entrepreneur
-- Share goodies, and things with the community
-- Currently focus on build projects
+- Saas products
+- Websites
+- Tools
+- Digital products
+- Contents
+- Businesses
+- Goodies
 
+<br/>
 
 Good things:
 
-- [Official sites](https://nyomansunima.com)
-- [Resources](https://nyomansunima.com/resources)
-- [Projects](https://nyomansunima.com/crafts)
+- [Official site](https://nyomansunima.com)
+- [Journeys](https://nyomansunima.com/journeys)
+- [Stories](https://nyomansunima.com/stories)
+- [Projects](https://nyomansunima.com/crafts) 
