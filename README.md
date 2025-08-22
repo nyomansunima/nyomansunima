@@ -5,10 +5,10 @@ Product designer, software engineer & creator. Building saas products, websites,
 
 - Working as freelancer
 - Finding & joining good teams
-- Building saas at [Moono](https://moono.space)
+- Building saas at [Moono](https://moono.site)
 - Create website templates at [Creevoo](https://creevoo.store)
 - Founded [Weebo](https://tryweebo.one) and [Sonibble](https://usesonibble.site)
-- Craft tools at [Weecraft](https://weecraft.club)
+- Craft tools at [Weecraft](https://weecraft.site)
 - Create content at [The Gridline](https://thegridline.site) & [The Scolon](https://thescolon.site)
 - Contribute to open source projects
 - Still actively maintain the projects
