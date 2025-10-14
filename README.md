@@ -1,9 +1,7 @@
 **Nyoman Sunima**
 
 Product designer, software engineer & creator. 
-
 Building saas, websites, tools, digital products, contents, businesses, goodies. 
-
 Helping startups ship & launch faster.
 
 See more on [official site](https://nyomansunima.com), [journeys](https://nyomansunima.com/journeys), [stories](https://nyomansunima.com/stories), [projects](https://nyomansunima.com/crafts).
