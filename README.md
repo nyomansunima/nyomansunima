@@ -9,8 +9,7 @@ Helping startups ship & launch faster.
 - Building saas at [Moono](https://moono.site)
 - Create website templates at [Creevoo](https://creevoo.store)
 - Founded [Weebo](https://tryweebo.site) and [Sonibble](https://usesonibble.site)
-- Craft tools at [Weecraft](https://weecraft.site)
-- Create content at [The Gridline](https://thegridline.site) & [The Scolon](https://thescolon.site)
+- Create content at [Gridline](https://thegridline.site) & [Scolon](https://thescolon.site)
 - Contribute to open source projects
 - Still actively maintain the projects
 - Crafting something new on the side
