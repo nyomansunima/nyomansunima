@@ -2,7 +2,7 @@
 
 Product designer, software engineer & creator. Building saas, sites & tools.
 
-Helping startups ship & launch faster.
+Helping businesses to build better products, ship faster & scale.
 
 - Working as freelancer
 - Finding & joining good teams
