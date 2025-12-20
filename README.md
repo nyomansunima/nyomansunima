@@ -1,15 +1,13 @@
 **Nyoman Sunima**
 
-Product designer, software engineer & creator. Building saas, sites & tools.
+Help businesses to create their software, websites, automations and workflows that lift the profits, increase efficiencies and reduce the costs.
 
-Helping businesses to build better products, ship faster & scale.
+Built better products, ship faster & scale by combining product design, software engineering and entrepreneurial strategy. Focusing on design, interactions, details, scaling infrastructures, timeline management, feedbacks, and iterations.
 
 - Working as freelancer
-- Finding & joining good teams
-- Building saas at [Moono](https://moono.site)
+- Finding good teams
+- Building saas, tools & cool stuff at [Moono](https://moono.site)
 - Create website templates at [Creevoo](https://creevoo.store)
-- Founded [Weebo](https://tryweebo.site) and [Sonibble](https://usesonibble.site)
+- Founded & run [Weebo](https://tryweebo.site) and [Sonibble](https://usesonibble.site)
 - Create content at [Gridline](https://thegridline.site) & [Scolon](https://thescolon.site)
 - Contribute to open source projects
-- Still actively maintain the projects
-- Crafting something new on the side
