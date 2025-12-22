@@ -1,4 +1,4 @@
-**Nyoman Sunima**
+**Nyoman Sunima (@heysunima)**
 
 Help businesses to create their software, websites, automations and workflows that lift the profits, increase efficiencies and reduce the costs.
 
