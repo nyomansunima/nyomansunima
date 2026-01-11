@@ -8,6 +8,6 @@ Built better products, ship faster & scale by combining product design, software
 - Finding good teams
 - Building saas, tools & cool stuff at [Moono](https://moono.site)
 - Create website templates at [Creevoo](https://creevoo.store)
-- Founded & run [Weebo](https://tryweebo.site) and [Sonibble](https://usesonibble.site)
+- Founded & run [Coined](https://thecoined.site)
 - Create content at [Gridline](https://thegridline.site) & [Scolon](https://thescolon.site)
 - Contribute to open source projects
