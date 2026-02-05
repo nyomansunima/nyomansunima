@@ -6,11 +6,11 @@ Combining product design, software engineering and business strategy. Focusing o
 
 Building:
 - Scalable systems
-- Infrastructure
+- Robust infrastructures
 - Softwares
 - Tools
 
 Currently:
 - Cooking open source
 - Shipping saas
-- Growing Communities
+- Growing communities
